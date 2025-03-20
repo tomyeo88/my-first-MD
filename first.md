@@ -11,5 +11,5 @@ This is the second part of my awesome markdown document.
 This is the third part of my awesome markdown document.
 
 ---
-![AI Generated header for Week 3 class](https://camphouse.me/assets/img/HAI5014-Week-3-header.jpg)
+![AI Generated header for Week 3 class](img/beautiful_ai_ex.png)
 
