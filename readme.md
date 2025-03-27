@@ -1,6 +1,7 @@
 # Chatbot Quality Guide
 
 ## Table of Contents
+
 - [Characteristics of Good Chatbots](#characteristics-of-good-chatbots)
 - [Characteristics of Bad Chatbots](#characteristics-of-bad-chatbots)
 - [Good Chatbot Example](#good-chatbot-example)
@@ -9,28 +10,34 @@
 
 
 ## Characteristics of Good Chatbots
+
 <img src="img/good_chatbot.png" width="300" alt="Good chatbot illustration">
 
 ### 1. Effective Problem Resolution
+
 - Provides *accurate* and relevant information without hallucination
 - Offers actionable solutions, not just acknowledgments
 - Knows when to escalate to human support
 
 ### 2. Contextual Awareness
+
 - Remembers previous parts of the conversation
 - References earlier statements when appropriate
 - Avoids asking for information the user has already provided
 
 ### 3. Natural Language Understanding
+
 - *Accurately* interprets user queries even when phrased conversationally
 - Handles **variations in language** and colloquialisms
 
 ### 4. Personality & Tone
+
 - Maintains a **consistent voice** that aligns with brand values
 - Adapts tone based on user emotion and conversation subject
 - Feels human-like without pretending to be human
 
 ### 5. Continuous Improvement
+
 - Learns from interactions to improve responses
 - Regularly updates knowledge base
 - Adapts to new user needs and expectations
@@ -40,26 +47,31 @@
 <img src="img/bad_chatbot.png" width="300" alt="Good chatbot illustration">
 
 ### 1. Misleading Capabilities
+
 - Suggests it can handle tasks beyond its actual abilities
 - Creates **false expectations** about resolution timelines
 - Doesn't clearly communicate limitations
 
 ### 2. Repetitive Responses
+
 - Uses the same templated answers regardless of context
 - Falls back to generic responses too frequently
 - Cannot adapt language to different situations
 
 ### 3. Poor Error Handling
+
 - Responds with "I don't understand" without suggesting alternatives
 - **Loops endlessly** in error states
 - Provides no clear path to resolution when confused
 
 ### 4. Rigid Understanding
+
 - Only responds to *exact keyword matches*
 - **Fails to interpret** natural language variations
 - Loses context between messages
 
 ### 5. Inappropriate Escalation
+
 - Fails to recognize when human intervention is needed
 - Makes escalation process *unnecessarily complicated*
 - Doesn't preserve conversation history when transferring to humans
@@ -134,9 +146,11 @@ callback from our technical team. Thank you for contacting us!
 ## Resources
 
 ### Design Guidelines
+
 - [Google Conversational Design Guidelines](https://developers.google.com/assistant/conversation-design/learn-about-conversation)
 - [Microsoft Bot Framework Documentation](https://docs.microsoft.com/en-us/azure/bot-service/?view=azure-bot-service-4.0)
 
 ### Video Resources
+
 - [Build a Large Language Model AI Chatbot using Retrieval Augmented Generation](https://youtu.be/XctooiH0moI?si=Wb_rObnSxi_C7RhF)
 - [Build and Deploy a RAG Chatbot with JavaScript, LangChain.js, Next.js, Vercel, OpenAI](https://www.youtube.com/watch?v=d-VKYF4Zow0)
