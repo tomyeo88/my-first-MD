@@ -1,3 +1,6 @@
+<img src="img/chatbot_ghibli_image.png" width="600" alt="Good chatbot illustration">
+<br><br>
+
 # Chatbot Quality Guide
 
 ## Table of Contents
